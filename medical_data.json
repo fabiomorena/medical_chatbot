@@ -1,0 +1,507 @@
+[
+  {
+    "instruction": "Was sind die Symptome einer Grippe?",
+    "input": "",
+    "output": "Typische Symptome der Grippe sind plötzlich einsetzender Fieberanstieg, Kopf- und Gliederschmerzen, trockener Husten, Müdigkeit und manchmal Halsschmerzen. Bei Verdacht auf Grippe ist ein Arztbesuch ratsam."
+  },
+  {
+    "instruction": "Wie kann man eine Erkältung behandeln?",
+    "input": "",
+    "output": "Eine Erkältung behandelt man symptomatisch: viel trinken, sich ausruhen, Inhalationen bei Husten und gegebenenfalls fiebersenkende Medikamente. Antibiotika helfen nicht, da es sich um eine Virusinfektion handelt."
+  },
+  {
+    "instruction": "Wann sollte man bei Kopfschmerzen zum Arzt?",
+    "input": "",
+    "output": "Man sollte zum Arzt, wenn Kopfschmerzen sehr stark, plötzlich auftreten, von Fieber oder neurologischen Symptomen begleitet werden oder trotz Behandlung über Wochen anhalten."
+  },
+  {
+    "instruction": "Was hilft bei Halsschmerzen?",
+    "input": "",
+    "output": "Bei Halsschmerzen helfen warme Getränke, Gurgeln mit Salzwasser, Halspastillen und Ruhe. Bei starken oder anhaltenden Schmerzen sollte ein Arzt konsultiert werden."
+  },
+  {
+    "instruction": "Welche Impfungen sind für Erwachsene empfohlen?",
+    "input": "",
+    "output": "Empfohlene Impfungen für Erwachsene sind u.a. die Grippeimpfung, Pneumokokken-Impfung, Tetanus-Impfung sowie bei Risikogruppen Hepatitis B und FSME. Der Impfstatus sollte regelmäßig mit dem Arzt besprochen werden."
+  },
+  {
+    "instruction": "Was ist Bluthochdruck?",
+    "input": "",
+    "output": "Bluthochdruck (Hypertonie) liegt vor, wenn der systolische Wert dauerhaft über 140 mmHg und/oder der diastolische über 90 mmHg beträgt. Langfristig kann er Herz, Gehirn und Nieren schädigen."
+  },
+  {
+    "instruction": "Welche Lebensmittel senken den Cholesterinspiegel?",
+    "input": "",
+    "output": "Lebensmittel wie Hafer, Nüsse, Avocados, Olivenöl, Fisch mit Omega-3-Fettsäuren und Gemüse können helfen, den Cholesterinspiegel zu senken. Eine ausgewogene Ernährung ist entscheidend."
+  },
+  {
+    "instruction": "Was ist Diabetes?",
+    "input": "",
+    "output": "Diabetes ist eine Stoffwechselerkrankung, bei der der Blutzuckerspiegel dauerhaft erhöht ist. Typ-1 entsteht durch einen Mangel an Insulin, Typ-2 durch Insulinresistenz. Eine Behandlung ist lebenslang notwendig."
+  },
+  {
+    "instruction": "Wie erkennt man eine allergische Reaktion?",
+    "input": "",
+    "output": "Symptome einer allergischen Reaktion können Hautausschlag, Juckreiz, Schwellungen, Atemnot oder Magen-Darm-Beschwerden sein. Bei schweren Reaktionen (Anaphylaxe) ist sofortiger Arztbesuch lebenswichtig."
+  },
+  {
+    "instruction": "Welche Vitamine stärken das Immunsystem?",
+    "input": "",
+    "output": "Vitamine wie C, D, Zink und Eisen unterstützen das Immunsystem. Sie finden sich in Obst, Gemüse, Nüssen und Vollkornprodukten. Bei Mangel kann eine Supplementierung sinnvoll sein."
+  },
+  {
+    "instruction": "Was ist eine Depression?",
+    "input": "",
+    "output": "Eine Depression ist eine psychische Erkrankung mit Symptomen wie dauerhafter Traurigkeit, Antriebslosigkeit, Konzentrationsproblemen und Schlafstörungen. Sie ist behandelbar durch Therapie und Medikamente."
+  },
+  {
+    "instruction": "Wie erkennt man einen Herzinfarkt?",
+    "input": "",
+    "output": "Symptome eines Herzinfarkts sind starke Brustschmerzen, Atemnot, Übelkeit, Schweißausbrüche und Schmerzen im Arm oder Kiefer. Bei Verdacht ist der Notarzt (112) sofort zu rufen."
+  },
+  {
+    "instruction": "Was hilft bei Migräne?",
+    "input": "",
+    "output": "Bei Migräne helfen Ruhe in dunkler Umgebung, kühlende Umschläge, Schmerzmittel und spezielle Migränemedikamente. Triggerfaktoren wie Stress oder bestimmte Nahrungsmittel sollten vermieden werden."
+  },
+  {
+    "instruction": "Welche Nebenwirkungen haben Antibiotika?",
+    "input": "",
+    "output": "Mögliche Nebenwirkungen von Antibiotika sind Durchfall, Übelkeit, Pilzinfektionen und allergische Reaktionen. Sie sollten nur bei bakteriellen Infektionen eingenommen werden."
+  },
+  {
+    "instruction": "Was ist Asthma?",
+    "input": "",
+    "output": "Asthma ist eine chronische Atemwegserkrankung mit Symptomen wie Atemnot, Husten und Engegefühl in der Brust. Es wird meist mit inhalativen Medikamenten behandelt."
+  },
+  {
+    "instruction": "Wie oft sollte man zum Zahnarzt?",
+    "input": "",
+    "output": "Erwachsene sollten mindestens einmal jährlich zum Zahnarzt zur Vorsorgeuntersuchung gehen. Bei bestimmten Erkrankungen oder Risikofaktoren kann eine häufigere Kontrolle sinnvoll sein."
+  },
+  {
+    "instruction": "Was ist Osteoporose?",
+    "input": "",
+    "output": "Osteoporose ist eine Erkrankung mit verminderter Knochendichte, die das Bruchrisiko erhöht. Vorbeugung erfolgt durch Kalzium, Vitamin D, Bewegung und bei Risiko ggf. Medikamente."
+  },
+  {
+    "instruction": "Welche Sportarten sind bei Rückenschmerzen geeignet?",
+    "input": "",
+    "output": "Rückenschmerzen können durch sanfte Bewegung wie Schwimmen, Yoga, Wandern oder spezielle Rückengymnastik gelindert werden. Starke Belastungen sollten vermieden werden."
+  },
+  {
+    "instruction": "Was ist eine Bronchitis?",
+    "input": "",
+    "output": "Eine Bronchitis ist eine Entzündung der Bronchien mit Symptomen wie Husten, Schleimproduktion und Atembeschwerden. Akute Formen heilen meist von allein, chronische Formen benötigen ärztliche Behandlung."
+  },
+  {
+    "instruction": "Wie erkennt man eine Magenschleimhautentzündung?",
+    "input": "",
+    "output": "Symptome einer Magenschleimhautentzündung sind Oberbauchschmerzen, Übelkeit, Völlegefühl und manchmal Erbrechen. Ursachen können Stress, Medikamente oder Bakterien sein."
+  },
+  {
+    "instruction": "Was ist eine Herzrhythmusstörung?",
+    "input": "",
+    "output": "Herzrhythmusstörungen äußern sich in Herzstolpern, Pochen, Schwindel oder Atemnot. Sie können harmlos sein oder behandlungsbedürftig. Bei starken Symptomen ist ein Arztbesuch wichtig."
+  },
+  {
+    "instruction": "Welche Lebensmittel enthalten viel Eisen?",
+    "input": "",
+    "output": "Eisenreiche Lebensmittel sind rotes Fleisch, Leber, Hülsenfrüchte, Vollkornprodukte, Spinat und Nüsse. Vitamin C fördert die Eisenaufnahme, Tee und Kaffee hemmen sie."
+  },
+  {
+    "instruction": "Was ist eine Blasenentzündung?",
+    "input": "",
+    "output": "Symptome einer Blasenentzündung sind brennende Schmerzen beim Wasserlassen, häufiger Harndrang und trüber Urin. Sie wird meist mit Antibiotika behandelt."
+  },
+  {
+    "instruction": "Wie erkennt man Sonnenbrand?",
+    "input": "",
+    "output": "Sonnenbrand zeigt sich durch gerötete, schmerzhafte und manchmal blubbernde Haut. Behandelt wird mit kühlenden Lotionen, Feuchtigkeit und Schmerzmitteln. Schwerer Sonnenbrand erfordert ärztliche Hilfe."
+  },
+  {
+    "instruction": "Was ist eine Allergie?",
+    "input": "",
+    "output": "Eine Allergie ist eine überreaktion des Immunsystems auf normalerweise harmlose Substanzen wie Pollen, Nahrungsmittel oder Hausstaub. Symptome sind Niesen, Juckreiz, Ausschlag oder Atemnot."
+  },
+  {
+    "instruction": "Welche Nebenwirkungen hat Paracetamol?",
+    "input": "",
+    "output": "Paracetamol ist gut verträglich, kann aber bei Überdosierung Leberschäden verursachen. Es sollte nicht über einen längeren Zeitraum ohne ärztlichen Rat eingenommen werden."
+  },
+  {
+    "instruction": "Was ist Arthrose?",
+    "input": "",
+    "output": "Arthrose ist ein Gelenkverschleiß mit Symptomen wie Schmerzen, Steifigkeit und Bewegungseinschränkung. Sie ist nicht heilbar, aber beschwerdenlindernd behandelbar."
+  },
+  {
+    "instruction": "Wie erkennt man eine Gehirnerschütterung?",
+    "input": "",
+    "output": "Symptome einer Gehirnerschütterung sind Kopfschmerzen, Schwindel, Übelkeit, Konzentrationsprobleme und manchmal Bewusstlosigkeit. Nach Kopfverletzungen ist ärztliche Kontrolle wichtig."
+  },
+  {
+    "instruction": "Was hilft bei Schlafstörungen?",
+    "input": "",
+    "output": "Gute Schlafhygiene hilft bei Schlafstörungen: regelmäßige Schlafrhythmen, Verzicht auf Koffein abends, entspannende Abende und ggf. Verhaltenstherapie oder Medikamente."
+  },
+  {
+    "instruction": "Was ist eine Erkältung?",
+    "input": "",
+    "output": "Eine Erkältung ist eine Virusinfektion der Atemwege mit Symptomen wie Schnupfen, Halsschmerzen, Husten und leichtem Fieber. Sie heilt meist innerhalb einer Woche von allein."
+  },
+  {
+    "instruction": "Welche Vorsorgeuntersuchungen sind wichtig?",
+    "input": "",
+    "output": "Wichtige Vorsorgeuntersuchungen sind Hautkrebs-Screening, Darmkrebs-Früherkennung, Mammographie, Prostatauntersuchung und regelmäßige Blutdruck- und Cholesterinkontrollen."
+  },
+  {
+    "instruction": "Was ist eine Mittelohrentzündung?",
+    "input": "",
+    "output": "Symptome einer Mittelohrentzündung sind Ohrenschmerzen, Fieber, Hörsturz und manchmal Ausfluss aus dem Ohr. Sie wird meist mit Schmerzmitteln behandelt, bei bakterieller Ursache mit Antibiotika."
+  },
+  {
+    "instruction": "Wie erkennt man Pilzinfektionen?",
+    "input": "",
+    "output": "Pilzinfektionen zeigen sich durch juckende, schuppige Hautstellen, oft zwischen den Zehen oder im Intimbereich. Sie werden mit antifungalen Cremes behandelt."
+  },
+  {
+    "instruction": "Was ist eine Nierensteinbeschwerde?",
+    "input": "",
+    "output": "Symptome von Nierensteinen sind starke Schmerzen im Rücken oder Unterbauch, Blut im Urin, Übelkeit und Harndrang. Kleinere Steine können von selbst ausgeschieden werden."
+  },
+  {
+    "instruction": "Welche Lebensmittel enthalten viel Kalzium?",
+    "input": "",
+    "output": "Kalziumreiche Lebensmittel sind Milchprodukte, grünes Blattgemüse, Sesam, Mandeln und Mineralwasser mit hohem Kalziumgehalt. Es ist wichtig für Knochen und Zähne."
+  },
+  {
+    "instruction": "Was ist eine Lungenentzündung?",
+    "input": "",
+    "output": "Symptome einer Lungenentzündung sind Fieber, Husten mit Schleim, Atemnot und Brustschmerzen. Sie kann viral oder bakteriell verursacht werden und benötigt ärztliche Behandlung."
+  },
+  {
+    "instruction": "Wie erkennt man eine Verbrennung?",
+    "input": "",
+    "output": "Verbrennungen werden in Grade eingeteilt: Grad 1 (Rötung), Grad 2 (Blasen), Grad 3 (zerstörte Haut). Kleine Verbrennungen kühlen, große oder tiefe erfordern ärztliche Hilfe."
+  },
+  {
+    "instruction": "Was ist eine Sehnenentzündung?",
+    "input": "",
+    "output": "Symptome einer Sehnenentzündung sind Schmerzen bei Bewegung, Druckschmerz und manchmal Schwellung. Behandelt wird mit Ruhe, Kühlen und entzündungshemmenden Medikamenten."
+  },
+  {
+    "instruction": "Welche Nebenwirkungen hat Ibuprofen?",
+    "input": "",
+    "output": "Mögliche Nebenwirkungen von Ibuprofen sind Magenbeschwerden, Kopfschmerzen, Nierenschäden bei Langzeiteinnahme und erhöhtes Blutungsrisiko. Es sollte nicht bei Magengeschwüren eingenommen werden."
+  },
+  {
+    "instruction": "Was ist eine Angststörung?",
+    "input": "",
+    "output": "Angststörungen äußern sich in übermäßiger Angst, Panikattacken, Herzklopfen und Vermeidungsverhalten. Sie sind gut behandelbar mit Therapie und ggf. Medikamenten."
+  },
+  {
+    "instruction": "Wie erkennt man eine Fraktur?",
+    "input": "",
+    "output": "Symptome einer Knochenfraktur sind starke Schmerzen, Schwellung, Fehlstellung und Bewegungsunfähigkeit. Bei Verdacht ist ein Röntgen und ärztliche Behandlung notwendig."
+  },
+  {
+    "instruction": "Was ist eine Blutarmut?",
+    "input": "",
+    "output": "Blutarmut (Anämie) zeigt sich in Müdigkeit, blasser Haut, Kurzatmigkeit und Schwindel. Ursachen können Eisenmangel, Blutverlust oder chronische Krankheiten sein."
+  },
+  {
+    "instruction": "Welche Sportarten sind bei Arthrose geeignet?",
+    "input": "",
+    "output": "Bei Arthrose sind gelenkschonende Sportarten wie Schwimmen, Radfahren, Wandern und Gymnastik geeignet. Hohe Belastungen sollten vermieden werden."
+  },
+  {
+    "instruction": "Was ist eine Magen-Darm-Grippe?",
+    "input": "",
+    "output": "Symptome der Magen-Darm-Grippe sind Durchfall, Erbrechen, Bauchschmerzen und Fieber. Behandelt wird symptomatisch mit Flüssigkeit und ausreichender Ruhe."
+  },
+  {
+    "instruction": "Wie erkennt man eine Pilzinfektion im Intimbereich?",
+    "input": "",
+    "output": "Symptome sind Juckreiz, Brennen, weißlicher Ausfluss und gerötete Schleimhaut. Sie wird mit antifungalen Zäpfchen oder Cremes behandelt."
+  },
+  {
+    "instruction": "Was ist eine Sinusitis?",
+    "input": "",
+    "output": "Eine Sinusitis ist eine Entzündung der Nebenhöhlen mit Symptomen wie Kopfschmerzen, Druckgefühl im Gesicht, verstopfte Nase und eitriger Sekret. Sie kann viral oder bakteriell sein."
+  },
+  {
+    "instruction": "Welche Lebensmittel enthalten viel Vitamin C?",
+    "input": "",
+    "output": "Vitamin C finden sich in Zitrusfrüchten, Kiwis, Paprika, Brokkoli, Erdbeeren und Tomaten. Es stärkt das Immunsystem und ist wichtig für die Haut."
+  },
+  {
+    "instruction": "Was ist eine Bandscheibenprolaps?",
+    "input": "",
+    "output": "Symptome sind Rückenschmerzen, Ausstrahlung in Arme oder Beine, Kribbeln und Muskelschwäche. Behandelt wird konservativ oder bei schweren Fällen operativ."
+  },
+  {
+    "instruction": "Wie erkennt man eine Allergie gegen Nahrungsmittel?",
+    "input": "",
+    "output": "Symptome sind Hautausschlag, Schwellungen, Atemnot, Übelkeit oder Durchfall nach dem Verzehr bestimmter Lebensmittel. Bei schweren Reaktionen ist Soforthilfe wichtig."
+  },
+  {
+    "instruction": "Was ist eine Erkältung der Atemwege?",
+    "input": "",
+    "output": "Eine Atemwegserkältung zeigt sich durch Schnupfen, Husten, Halsschmerzen und leichtes Fieber. Sie heilt meist innerhalb einer Woche von selbst."
+  },
+  {
+    "instruction": "Welche Nebenwirkungen hat Aspirin?",
+    "input": "",
+    "output": "Aspirin kann Magenreizungen, Blutungsneigung und allergische Reaktionen verursachen. Es sollte nicht bei Kindern oder bei Magengeschwüren eingenommen werden."
+  },
+  {
+    "instruction": "Was ist eine chronische Bronchitis?",
+    "input": "",
+    "output": "Chronische Bronchitis ist eine langanhaltende Entzündung der Atemwege mit Husten und Schleim über Monate. Raucher sind besonders gefährdet."
+  },
+  {
+    "instruction": "Wie erkennt man eine Harnwegsinfektion?",
+    "input": "",
+    "output": "Symptome sind brennendes Wasserlassen, häufiger Harndrang, trüber Urin und manchmal Fieber. Sie wird meist mit Antibiotika behandelt."
+  },
+  {
+    "instruction": "Was ist eine Depression?",
+    "input": "",
+    "output": "Eine Depression ist eine psychische Erkrankung mit Symptomen wie dauerhafter Traurigkeit, Antriebslosigkeit, Konzentrationsproblemen und Schlafstörungen. Sie ist behandelbar durch Therapie und Medikamente."
+  },
+  {
+    "instruction": "Welche Lebensmittel enthalten viel Magnesium?",
+    "input": "",
+    "output": "Magnesiumreiche Lebensmittel sind Vollkornprodukte, Nüsse, Samen, grünes Gemüse und Bananen. Es ist wichtig für Muskeln, Nerven und den Herzrhythmus."
+  },
+  {
+    "instruction": "Was ist eine Niereninsuffizienz?",
+    "input": "",
+    "output": "Symptome sind Müdigkeit, Schwellungen, Appetitlosigkeit und Verwirrtheit. Sie kann akut oder chronisch sein und benötigt spezielle medizinische Behandlung."
+  },
+  {
+    "instruction": "Wie erkennt man eine Augenentzündung?",
+    "input": "",
+    "output": "Symptome sind gerötete Augen, Juckreiz, Tränenfluss und manchmal Sekret. Ursachen können Bakterien, Viren oder Allergien sein. Bei starken Symptomen ist ein Arztbesuch ratsam."
+  },
+  {
+    "instruction": "Was ist eine Leberzirrhose?",
+    "input": "",
+    "output": "Leberzirrhose ist eine fortschreitende Vernarbung der Leber durch langjährige Schädigung. Symptome sind Müdigkeit, Bauchwasser und Gelbsucht. Sie ist nicht umkehrbar."
+  },
+  {
+    "instruction": "Welche Sportarten sind bei Bluthochdruck geeignet?",
+    "input": "",
+    "output": "Bei Bluthochdruck sind Ausdauersportarten wie Walking, Schwimmen, Radfahren und Gymnastik geeignet. Wettbewerbsport und Krafttraining sollten vorsichtig dosiert werden."
+  },
+  {
+    "instruction": "Was ist eine Magengeschwür?",
+    "input": "",
+    "output": "Symptome sind brennende Schmerzen im Oberbauch, besonders auf nüchternen Magen. Ursachen können Bakterien (H. pylori) oder Medikamente sein."
+  },
+  {
+    "instruction": "Wie erkennt man eine Pilzinfektion der Füße?",
+    "input": "",
+    "output": "Symptome sind juckende, schuppige Haut zwischen den Zehen, oft mit Blasenbildung. Behandelt wird mit antifungalen Cremes."
+  },
+  {
+    "instruction": "Was ist eine Epilepsie?",
+    "input": "",
+    "output": "Epilepsie ist eine Erkrankung mit wiederkehrenden epileptischen Anfällen. Diese können Bewusstlosigkeit, Krämpfe oder kurzzeitige Ausfälle beinhalten. Sie ist behandelbar mit Medikamenten."
+  },
+  {
+    "instruction": "Welche Lebensmittel enthalten viel Vitamin D?",
+    "input": "",
+    "output": "Vitamin D finden sich in fettem Fisch, Lebertran, Eiern und Pilzen. Der Körper kann es auch durch Sonnenlicht produzieren. Es ist wichtig für Knochen und Immunsystem."
+  },
+  {
+    "instruction": "Was ist eine Prostatavergrößerung?",
+    "input": "",
+    "output": "Symptome sind häufiges Wasserlassen, Harnverhalt, Nachtröpfeln und manchmal Harnwegsinfekte. Sie tritt häufig bei älteren Männern auf."
+  },
+  {
+    "instruction": "Wie erkennt man eine allergische Rhinitis?",
+    "input": "",
+    "output": "Symptome sind Niesen, laufende Nase, juckende Augen und Nasenverstopfung durch Pollen, Hausstaub oder Tierhaare. Sie wird mit Antihistaminika behandelt."
+  },
+  {
+    "instruction": "Was ist eine Hyperthyreose?",
+    "input": "",
+    "output": "Symptome einer Schilddrüsenüberfunktion sind Gewichtsverlust, Herzrasen, Unruhe, Schwitzen und Augenprobleme. Sie wird medikamentös behandelt."
+  },
+  {
+    "instruction": "Welche Nebenwirkungen hat Metformin?",
+    "input": "",
+    "output": "Mögliche Nebenwirkungen von Metformin sind Magen-Darm-Beschwerden, Appetitlosigkeit und selten Milchsäureazidose. Es wird bei Diabetes Typ 2 eingesetzt."
+  },
+  {
+    "instruction": "Was ist eine chronische Nierenerkrankung?",
+    "input": "",
+    "output": "Symptome sind Müdigkeit, Appetitlosigkeit, Schwellungen und erhöhter Blutdruck. Sie entwickelt sich langsam und kann zur Dialyse führen."
+  },
+  {
+    "instruction": "Wie erkennt man eine Harnsteinbeschwerde?",
+    "input": "",
+    "output": "Symptome sind starke Schmerzen im Rücken oder Unterbauch, Blut im Urin, Übelkeit und Harndrang. Kleinere Steine können von selbst ausgeschieden werden."
+  },
+  {
+    "instruction": "Was ist eine Zahnfleischentzündung?",
+    "input": "",
+    "output": "Symptome sind gerötetes, geschwollenes Zahnfleisch, Zahnfleischbluten und Mundgeruch. Sie wird durch Bakterien verursacht und durch Zahnstein begünstigt."
+  },
+  {
+    "instruction": "Welche Lebensmittel enthalten viel Ballaststoffe?",
+    "input": "",
+    "output": "Ballaststoffreiche Lebensmittel sind Vollkornprodukte, Gemüse, Obst, Hülsenfrüchte und Nüsse. Sie fördern die Verdauung und regulieren den Blutzucker."
+  },
+  {
+    "instruction": "Was ist eine Lungenembolie?",
+    "input": "",
+    "output": "Symptome sind plötzliche Atemnot, Brustschmerzen, Husten mit Blut und Kreislaufprobleme. Sie ist lebensbedrohlich und benötigt sofortige Behandlung."
+  },
+  {
+    "instruction": "Wie erkennt man eine Bandscheibenprolaps?",
+    "input": "",
+    "output": "Symptome sind Rückenschmerzen, Ausstrahlung in Arme oder Beine, Kribbeln und Muskelschwäche. Behandelt wird konservativ oder bei schweren Fällen operativ."
+  },
+  {
+    "instruction": "Was ist eine Hypothyreose?",
+    "input": "",
+    "output": "Symptome einer Schilddrüsenunterfunktion sind Müdigkeit, Gewichtszunahme, Kälteempfindlichkeit, trockene Haut und Verstopfung. Sie wird mit Hormonen behandelt."
+  },
+  {
+    "instruction": "Welche Sportarten sind bei Diabetes geeignet?",
+    "input": "",
+    "output": "Bei Diabetes sind Ausdauersportarten wie Walking, Schwimmen, Radfahren und Gymnastik geeignet. Die Blutzuckerwerte sollten dabei überwacht werden."
+  },
+  {
+    "instruction": "Was ist eine Gallensteinkolik?",
+    "input": "",
+    "output": "Symptome sind plötzliche, starke Schmerzen im rechten Oberbauch, oft nach fettigen Mahlzeiten. Sie kann zu Entzündungen führen und benötigt ärztliche Behandlung."
+  },
+  {
+    "instruction": "Wie erkennt man eine Pilzinfektion im Mund?",
+    "input": "",
+    "output": "Symptome sind weiße Beläge auf der Zunge oder im Mund, Juckreiz und Brennen. Sie wird mit antifungalen Spülungen behandelt."
+  },
+  {
+    "instruction": "Was ist eine chronische Bronchitis?",
+    "input": "",
+    "output": "Chronische Bronchitis ist eine langanhaltende Entzündung der Atemwege mit Husten und Schleim über Monate. Raucher sind besonders gefährdet."
+  },
+  {
+    "instruction": "Welche Lebensmittel enthalten viel Kalium?",
+    "input": "",
+    "output": "Kaliumreiche Lebensmittel sind Bananen, Kartoffeln, Spinat, Avocados und Trockenfrüchte. Es ist wichtig für Herz und Muskeln."
+  },
+  {
+    "instruction": "Was ist eine Magen-Darm-Infektion?",
+    "input": "",
+    "output": "Symptome sind Durchfall, Erbrechen, Bauchschmerzen und Fieber. Behandelt wird symptomatisch mit Flüssigkeit und ausreichender Ruhe."
+  },
+  {
+    "instruction": "Wie erkennt man eine Harnwegsinfektion?",
+    "input": "",
+    "output": "Symptome sind brennendes Wasserlassen, häufiger Harndrang, trüber Urin und manchmal Fieber. Sie wird meist mit Antibiotika behandelt."
+  },
+  {
+    "instruction": "Was ist eine Depression?",
+    "input": "",
+    "output": "Eine Depression ist eine psychische Erkrankung mit Symptomen wie dauerhafter Traurigkeit, Antriebslosigkeit, Konzentrationsproblemen und Schlafstörungen. Sie ist behandelbar durch Therapie und Medikamente."
+  },
+  {
+    "instruction": "Welche Lebensmittel enthalten viel Magnesium?",
+    "input": "",
+    "output": "Magnesiumreiche Lebensmittel sind Vollkornprodukte, Nüsse, Samen, grünes Gemüse und Bananen. Es ist wichtig für Muskeln, Nerven und den Herzrhythmus."
+  },
+  {
+    "instruction": "Was ist eine Niereninsuffizienz?",
+    "input": "",
+    "output": "Symptome sind Müdigkeit, Schwellungen, Appetitlosigkeit und Verwirrtheit. Sie kann akut oder chronisch sein und benötigt spezielle medizinische Behandlung."
+  },
+  {
+    "instruction": "Wie erkennt man eine Augenentzündung?",
+    "input": "",
+    "output": "Symptome sind gerötete Augen, Juckreiz, Tränenfluss und manchmal Sekret. Ursachen können Bakterien, Viren oder Allergien sein. Bei starken Symptomen ist ein Arztbesuch ratsam."
+  },
+  {
+    "instruction": "Was ist eine Leberzirrhose?",
+    "input": "",
+    "output": "Leberzirrhose ist eine fortschreitende Vernarbung der Leber durch langjährige Schädigung. Symptome sind Müdigkeit, Bauchwasser und Gelbsucht. Sie ist nicht umkehrbar."
+  },
+  {
+    "instruction": "Welche Sportarten sind bei Bluthochdruck geeignet?",
+    "input": "",
+    "output": "Bei Bluthochdruck sind Ausdauersportarten wie Walking, Schwimmen, Radfahren und Gymnastik geeignet. Wettbewerbsport und Krafttraining sollten vorsichtig dosiert werden."
+  },
+  {
+    "instruction": "Was ist eine Magengeschwür?",
+    "input": "",
+    "output": "Symptome sind brennende Schmerzen im Oberbauch, besonders auf nüchternen Magen. Ursachen können Bakterien (H. pylori) oder Medikamente sein."
+  },
+  {
+    "instruction": "Wie erkennt man eine Pilzinfektion der Füße?",
+    "input": "",
+    "output": "Symptome sind juckende, schuppige Haut zwischen den Zehen, oft mit Blasenbildung. Behandelt wird mit antifungalen Cremes."
+  },
+  {
+    "instruction": "Was ist eine Epilepsie?",
+    "input": "",
+    "output": "Epilepsie ist eine Erkrankung mit wiederkehrenden epileptischen Anfällen. Diese können Bewusstlosigkeit, Krämpfe oder kurzzeitige Ausfälle beinhalten. Sie ist behandelbar mit Medikamenten."
+  },
+  {
+    "instruction": "Welche Lebensmittel enthalten viel Vitamin D?",
+    "input": "",
+    "output": "Vitamin D finden sich in fettem Fisch, Lebertran, Eiern und Pilzen. Der Körper kann es auch durch Sonnenlicht produzieren. Es ist wichtig für Knochen und Immunsystem."
+  },
+  {
+    "instruction": "Was ist eine Prostatavergrößerung?",
+    "input": "",
+    "output": "Symptome sind häufiges Wasserlassen, Harnverhalt, Nachtröpfeln und manchmal Harnwegsinfekte. Sie tritt häufig bei älteren Männern auf."
+  },
+  {
+    "instruction": "Wie erkennt man eine allergische Rhinitis?",
+    "input": "",
+    "output": "Symptome sind Niesen, laufende Nase, juckende Augen und Nasenverstopfung durch Pollen, Hausstaub oder Tierhaare. Sie wird mit Antihistaminika behandelt."
+  },
+  {
+    "instruction": "Was ist eine Hyperthyreose?",
+    "input": "",
+    "output": "Symptome einer Schilddrüsenüberfunktion sind Gewichtsverlust, Herzrasen, Unruhe, Schwitzen und Augenprobleme. Sie wird medikamentös behandelt."
+  },
+  {
+    "instruction": "Welche Nebenwirkungen hat Metformin?",
+    "input": "",
+    "output": "Mögliche Nebenwirkungen von Metformin sind Magen-Darm-Beschwerden, Appetitlosigkeit und selten Milchsäureazidose. Es wird bei Diabetes Typ 2 eingesetzt."
+  },
+  {
+    "instruction": "Was ist eine chronische Nierenerkrankung?",
+    "input": "",
+    "output": "Symptome sind Müdigkeit, Appetitlosigkeit, Schwellungen und erhöhter Blutdruck. Sie entwickelt sich langsam und kann zur Dialyse führen."
+  },
+  {
+    "instruction": "Wie erkennt man eine Harnsteinbeschwerde?",
+    "input": "",
+    "output": "Symptome sind starke Schmerzen im Rücken oder Unterbauch, Blut im Urin, Übelkeit und Harndrang. Kleinere Steine können von selbst ausgeschieden werden."
+  },
+  {
+    "instruction": "Was ist eine Zahnfleischentzündung?",
+    "input": "",
+    "output": "Symptome sind gerötetes, geschwollenes Zahnfleisch, Zahnfleischbluten und Mundgeruch. Sie wird durch Bakterien verursacht und durch Zahnstein begünstigt."
+  },
+  {
+    "instruction": "Welche Lebensmittel enthalten viel Ballaststoffe?",
+    "input": "",
+    "output": "Ballaststoffreiche Lebensmittel sind Vollkornprodukte, Gemüse, Obst, Hülsenfrüchte und Nüsse. Sie fördern die Verdauung und regulieren den Blutzucker."
+  },
+  {
+    "instruction": "Was ist eine Lungenembolie?",
+    "input": "",
+    "output": "Symptome sind plötzliche Atemnot, Brustschmerzen, Husten mit Blut und Kreislaufprobleme. Sie ist lebensbedrohlich und benötigt sofortige Behandlung."
+  },
+  {
+    "instruction": "Wie erkennt man eine Bandscheibenprolaps?",
+    "input": "",
+    "output": "Symptome sind Rückenschmerzen, Ausstrahlung in Arme oder Beine, Kribbeln und Muskelschwäche. Behandelt wird konservativ oder bei schweren Fällen operativ."
+  }
+]
